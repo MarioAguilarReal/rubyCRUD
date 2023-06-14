@@ -1,0 +1,2 @@
+nombre = "MArio"
+puts nombre
